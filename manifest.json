@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Resultadodel Tris De Hoy",
+  "version": "1.0",
+  "description": "Consulta puntualmente todos los resultados de la lotería tris méxico.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
