@@ -24,6 +24,12 @@ manifest.json: Configuration file containing metadata about the extension.
 Clone the repository or download the ZIP file.
 In Chrome, go to chrome://extensions/ and enable Developer Mode.
 Click Load unpacked and select the folder where the files are located.
+
+# Direct Downloads
+
+It is not only built for chrome. Microsoft and mozilla users can use download it from thier
+own webstore. On the all website extension store it is live and here is the direct download
+button of [Chrome](https://chromewebstore.google.com/detail/resultadodel-tris-de-hoy/iemglakinfblilfddbaplhmdakeldide), [Mozilla](https://addons.mozilla.org/en-US/firefox/addon/resultadodel-tris-de-hoy/) and [Microsoft](https://microsoftedge.microsoft.com/addons/detail/resultadodel-tris-de-hoy/kbgliaajcddldijjkkniefjlpkkniegb).
 The extension will now be available in your browser.
 
 # Usage
